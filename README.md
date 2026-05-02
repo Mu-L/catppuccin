@@ -1257,6 +1257,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [crates.io](https://github.com/catppuccin/userstyles/tree/main/styles/crates.io)
 - [Hackage](https://github.com/catppuccin/userstyles/tree/main/styles/hackage)
 - [npm](https://github.com/catppuccin/userstyles/tree/main/styles/npm)
+- [npmx](https://github.com/catppuccin/userstyles/tree/main/styles/npmx)
 - [PyPI](https://github.com/catppuccin/userstyles/tree/main/styles/pypi)
 
 </details>
